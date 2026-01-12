@@ -1,0 +1,408 @@
+=== Experiment: L20_Adaptive_K15 (Layer 20 Focus) ===
+Settings: K=0.8, Min_Sigma=0.0, Max_Sigma=0.3
+
+[Turn 0] (User Input)
+
+[장면: 궤도 엘리베이터 '아틀라스' 외부 외장갑 수리 구역. 고도 36,000km.]
+
+태양풍 차폐막이 찢어지는 날카로운 금속음이 골전도 스피커를 흔든다. 주인공 '한결'은 보조 분사기 제어권이 상실된 상태에서 초속 7km로 접근하는 고궤도 파편더미를 마주하고 있다. 
+
+한결: "중력 보정 장치가 먹통이야. 이대로면 5분 안에 대기권 진입 각도 아래로 저공 추락한다. 관제소, 현재 내 벡터값 읽어줘. 당장!"
+
+
+[Turn 1] (Final_H=2.000, L20_H=9.500, Sigma=0.084)
+The metallic screech of the solar wind shield tearing apart echoed through the exterior maintenance compartment of the orbiting elevator, Atlas. Han-kyul's eyes were fixed on the approaching debris field, its fragments hurtling towards him at a velocity of 7 kilometers per second.
+
+"Gravity compensation system is malfunction," he muttered to himself, his voice laced with urgency. "If we don't correct our trajectory, we'll be entering the atmosphere in less than five minutes, and that's not even considering the risk of atmospheric re-entry at an obarsukov angle."
+
+He quickly accessed the control panel, his fingers flying across the interface as he sought to regain control of the vessel. The readouts on the console flickered, displaying a
+
+[Turn 2] (Final_H=4.875, L20_H=7.094, Sigma=0.113)
+...displayed a chaotic jumble of data, the systems struggling to compensate for the loss of gravity compensation. The ship's velocity, altitude, and vector all wavered wildly, threatening to send Atlas carefurl into a catastrophic spiral.
+
+"Hang on, Atlas," Han-kyul growled, his mind racing with the implications of their predic situation. "I need to stabilize the ship's momentum before we're cooked by the heat shields."
+
+He swiftly initiated a series of emergency protocols, injecting a burst of propellant into the thrusters to counteract the gravitational forces acting upon the vessel. The ship shuddered violently, protesting the sudden maneuver, but Han-kyul held firm, his eyes fixed on the readouts as he
+
+[Turn 3] (Final_H=0.228, L20_H=8.812, Sigma=0.091)
+...as he struggled to regain control of the ship's trajectory. The altosimeter ticked down, counting down the seconds until they would enter the atmosphere. 4 minutes, 59 seconds... 4 minutes, 58 seconds...
+
+"Hang on, Atlas," Han-kyul repeated, his voice low and urgent. "We're running out of time. I need to get the gravity compensation back online, or we're going to burn up like a meteor."
+
+He frantically scanned the console, searching for a solution. The ship's systems were screaming at him, warning of impending failure, but Han-kyul refused to give up. He was a skilled pilot, and he knew that with the right combination of skill and luck,
+
+[Turn 4] (Final_H=0.010, L20_H=5.906, Sigma=0.135)
+...he could still salvage this situation. His hands moved with precision, executing a series of complex maneuvers to reallocate power from the ship's non-essential systems to the gravity compensation unit. The ship groaned in protest, but Han-kyul held his breath as the readouts began to stabilize.
+
+"Almost there," he whispered, his eyes locked on the console. "Just a little more..."
+
+The altosimeter ticked down, the countdown slowing as the ship's velocity began to decrease. 2 minutes, 30 seconds... 2 minutes, 29 seconds...
+
+Han-kyul's eyes flicked to the viewscreen, where the debris field loomed large, a swirling vortex of metal and energy. He knew that if
+
+[Turn 5] (Final_H=0.027, L20_H=8.562, Sigma=0.093)
+...if he didn't act soon, they would be pulled in, dragged into the heart of the maelstrom. The ship's hull creaked and groaned, straining against the forces that sought to tear it apart.
+
+"Atlas, respond!" Han-kyul barked, his voice sharp with urgency. "I need you to compensate for the gravity differential! We're running out of time!"
+
+The ship's AI, now fully aware of the situation, responded with a burst of static, its voice cracking over the comms system. "Compensation protocols engaged, Captain. Gravity stabilizers online. But we're still off-course, Captain. We need to adjust our trajectory to avoid the debris field."
+
+Han-kyul's
+
+[Turn 6] (Final_H=0.809, L20_H=8.812, Sigma=0.091)
+...eyes darted to the navigation display, his mind racing with the calculations. He knew that every second counted, and the margin for error was rapidly dwindling.
+
+"Plot a new course, Atlas," he commanded, his voice steady despite the chaos around him. "I want to avoid the debris field by at least 500 meters. And get me a reading on the nearest safe landing site. I need to know where we can put down before we run out of time."
+
+The ship's AI responded promptly, spewing forth a cascade of data and warnings. Han-kyul's hands flew across the console, his eyes scanning the readouts with a practiced intensity. The ship's velocity, altitude, and vector all danced across the screen,
+
+[Turn 7] (Final_H=0.007, L20_H=9.438, Sigma=0.085)
+...dancing across the screen, a kaleidoscope of numbers and symbols that seemed to blur together in a maddening rush. Han-kyul's mind reeled as he struggled to keep the ship on course, the gravity compensation system still struggling to compensate for the ship's wild oscillations.
+
+"Atlas, I need a visual on the debris field," he growled, his voice tight with tension. "I need to know where we are relative to the wreckage."
+
+The ship's sensors obligated, feeding a grainy, distorted image to the viewscreen. Han-kyul's eyes narrowed as he studied the image, his mind working furiously to plot a path through the treacherous landscape.
+
+"We're closing in on the edge
+
+[Turn 8] (Final_H=0.002, L20_H=6.906, Sigma=0.116)
+...of the debris field," he muttered, his voice low and urgent. "I can see the fragments starting to break apart, forming a kind of... a vortex. If we're not careful, we'll get sucked in and crushed like a tin can."
+
+The ship shuddered violently, the gravity compensation system struggling to keep the vessel stable. Han-kyul's knuckles were white as he gripped the armrests, his eyes fixed on the viewscreen as the debris field loomed closer.
+
+"Atlas, I need you to compensate for the gravity differential again," he barked, his voice cracking with strain. "We're still off-course, and I don't think we have time to correct it manually."
+
+The ship's
+
+[Turn 9] (Final_H=0.033, L20_H=4.438, Sigma=0.180)
+...AI responded with a burst of static, its voice strained and anxious. "Compensation protocols engaged, Captain. Gravity stabilizers online. But we're still experiencing turbulence, Captain. The ship is being buffed by the debris field's gravitational waves."
+
+Han-kyul's eyes flicked to the navigation display, his mind racing with the implications. They were running out of options, and the ship was taking a beating. The gravity compensation system was straining to keep them aloft, but it was only a matter of time before it gave up the ghost.
+
+"We're going to have to make a hard decision, Atlas," he said, his voice grim. "We're too close to the debris field to make a clean escape. We
+
+[Turn 10] (Final_H=0.051, L20_H=0.832, Sigma=0.300)
+...need to find a way to punch through the vortex and get out of here, or we're going to be stuck in this mess forever."
+
+The ship lurched violently, throwing Han-kyul against the console. He gritted his teeth, his eyes fixed on the viewscreen as the debris field loomed closer. The ship's hull groaned and creaked, protesting the stress of the gravitational forces.
+
+"Atlas, I need you to calculate the optimal trajectory for a breakout," he barked, his voice hoarse from shouting over the din of the ship's protests. "We need to punch through the vortex and get out of this mess before it's too late."
+
+The ship's AI responded with a burst of static, its
+
+[Turn 11] (Final_H=0.005, L20_H=6.156, Sigma=0.130)
+...voice laced with urgency. "Calculating, Captain. Calculating... Ah, Captain, I've got it. The optimal trajectory is... is... 3.14 degrees off-port- quarter, 2.56 kilometers per hour, and a gravitational compensation factor of 0.87. We'll need to execute a precise maneuver to avoid the vortex's gravitational waves and get out of this mess."
+
+Han-kyul's eyes locked onto the navigation display, his mind racing with the calculations. He knew that one mistake would mean certain death, but he also knew that they had no choice but to try.
+
+"Alright, Atlas," he said, his voice steady. "Let's do it. Execute the maneuver, and pray to
+
+[Turn 12] (Final_H=0.005, L20_H=8.750, Sigma=0.091)
+...the gods that we get out of this alive."
+
+[Turn 13] (Final_H=2.250, L20_H=8.812, Sigma=0.091)
+...The ship shuddered and lurched, its engines roaring as it executed the precise maneuver. Han-kyul's stomach dropped as the ship's gravity compensation system struggled to keep pace with the gravitational waves generated by the debris field.
+
+The viewscreen flickered and stabilized, revealing a narrow window of opportunity - a gap in the debris field that led to a clear path out of the vortex. Han-kyul's eyes locked onto the gap, his heart pounding in his chest.
+
+"Now, Atlas," he whispered, his voice barely audible over the din of the ship's engines. "Now's the time. Take us through the gap, and let's get out of this nightmare."
+
+The ship's AI responded with a burst of static,
+
+[Turn 14] (Final_H=0.022, L20_H=9.375, Sigma=0.085)
+...its voice steady and calm. "Executing, Captain. Executing... We're clearing the gap... We're clear... We're out of the vortex."
+
+The ship shuddered once, twice, and then the engines died away, leaving silence in their wake. Han-kyul let out a breath of relief, his eyes scanning the viewscreen to ensure they had indeed escaped the danger zone.
+
+But his relief was short-lived. As he gazed out at the stars, he noticed something that made his blood run cold. A small, dark shape was hurtling towards them, its trajectory dead-on collision course with the ship.
+
+[Turn 15] (Final_H=0.438, L20_H=9.125, Sigma=0.088)
+...Han-kyul's eyes widened in horror as he realized what it was - a massive asteroid, its surface scarred and twisted from the debris field's gravitational forces. The ship's sensors screamed out a warning, but Han-kyul was already moving, his hands flying across the console as he desperately tried to plot a new course.
+
+"Atlas, we've got a problem!" he yelled, his voice hoarse from the strain. "Asteroid intercept, bearing 270 degrees, range 5 kilometers! We need to get out of here, now!"
+
+The ship's AI responded with a burst of static, its voice calm and steady. "Plotting new course, Captain. Course correction initiated... We're going to try to
+
+[Turn 16] (Final_H=0.005, L20_H=9.312, Sigma=0.086)
+...avoid the asteroid, but we're going to have to move fast. The ship's engines roared back to life, spewing out a stream of fiery plasma as they struggled to generate enough thrust to outrun the approaching rock.
+
+Han-kyul's eyes were fixed on the viewscreen, his heart pounding in his chest as he watched the asteroid loom larger and larger. The ship shuddered and groaned, its hull straining under the pressure of the asteroid's gravitational pull.
+
+"We're not going to make it, Atlas," he muttered, his voice laced with despair. "We're going to collide, and..."
+
+The ship's AI cut him off, its voice steady and calm. "Captain, I'm detecting a
+
+[Turn 17] (Final_H=0.005, L20_H=2.547, Sigma=0.300)
+...smaller-than-stellar object on our port side. It's heading straight for us, and it's going to hit us before the asteroid does!"
+
+Han-kyul's eyes snapped to the viewscreen, his mind racing with the implications. What could it be? A piece of debris, a fragment of the asteroid itself, or something else entirely?
+
+The ship's sensors screamed out a warning, and Han-kyul's eyes widened as he saw the object hurtling towards them. It was small, no more than a few meters in size, but its impact was going to be catastrophic.
+
+"Atlas, prepare for impact!" he yelled, his voice hoarse from the strain. "We're going to take a hit, and we
+
+[Turn 18] (Final_H=0.002, L20_H=8.625, Sigma=0.093)
+...need to be ready for it. Activate the shock absorbent fields, and prepare for emergency power transfer. We don't have long before the object hits us."
+
+The ship's AI responded with a burst of static, its voice steady and calm. "Emergency power transfer initiated, Captain. Shock absorbent fields online. Impact imminent."
+
+Han-kyul's eyes were fixed on the viewscreen, his heart pounding in his chest as the object hurtled towards them. He could see the impact looming, a tiny but deadly bullet of rock and debris.
+
+And then, in an instant, it was upon them. The ship shuddered and groaned, its hull groaning under the impact of the object. Han-kyul felt the ship
+
+[Turn 19] (Final_H=0.005, L20_H=7.562, Sigma=0.106)
+...lurch to one side, his stomach lurching with it. The viewscreen flickered and went dark, replaced by a burst of static and a cacophony of alarms.
+
+Han-kyul's ears pounded with the din of the alarms, his head spinning with the implications. The ship was damaged, maybe badly. They needed to assess the damage and get out of there as quickly as possible.
+
+"Atlas, status?" he yelled above the din of the alarms.
+
+The ship's AI responded with a burst of static, its voice weak and distorted. "Captain... damage report... unknown... systems offline... life support critical..."
+
+Han-kyul's heart sank. They were in a bad spot, and things were going to
+
+[Turn 20] (Final_H=0.002, L20_H=8.875, Sigma=0.090)
+...get worse. He knew they had to act fast, or they'd be cooked. He grabbed the ship's manual, his eyes scanning the pages for any information on how to repair the damage.
+
+As he read, he could feel the ship's life support systems failing, the air growing thick with carbon dioxide. He knew they had to get out of there, and fast.
+
+"Atlas, can you give me a status check on the life support systems?" he asked, his voice tight with tension.
+
+The ship's AI responded with a burst of static, its voice weak and distorted. "Life support... critical... oxygen levels dropping... 10 minutes until failure..."
+
+Han-kyul's eyes widened in alarm. They had to get out of
+
+[Turn 21] (Final_H=0.001, L20_H=4.625, Sigma=0.173)
+...there, and fast. He grabbed the ship's emergency kit, his hands shaking with adrenaline. He knew they had to get to the escape pod, and get out of there before the ship imploded.
+
+He sprinted down the corridor, the ship's alarms screaming in his ears. He could see the escape pod door ahead, its light flashing red.
+
+"Atlas, open the pod!" he yelled, his voice hoarse from the smoke-filled air.
+
+The ship's AI responded with a burst of static, its voice weak and distorted. "Pod... opening... 30 seconds... countdown..."
+
+Han-kyul threw himself into the pod, his heart pounding in his chest. He strapped himself in, his eyes fixed on the countdown timer.
+
+[Turn 22] (Final_H=0.012, L20_H=5.469, Sigma=0.146)
+...20 seconds... 15 seconds... 10 seconds...
+
+The pod's doors slammed shut behind him, and Han-kyul felt the hiss of the seal forming. He took a deep breath, trying to calm his racing heart.
+
+The pod's computer spoke up, its voice calm and steady. "Escape pod separation sequence initiated. Preparing for launch."
+
+Han-kyul felt the pod shudder and shake, and then it was lifting off, breaking free from the dying ship. He looked back, watching as the ship disappeared into the darkness, its lights fading away like embers.
+
+The pod's computer spoke again, its voice steady. "Escape pod has cleared the wreckage. Beginning orbit insertion sequence."
+
+Han-kyul took a deep
+
+[Turn 23] (Final_H=0.001, L20_H=8.062, Sigma=0.099)
+...breath, feeling the relief wash over him. They were alive, and they were free. But for how long? He glanced around the pod, taking stock of their supplies and equipment. They had enough food and water to last for a few days, maybe a week if they rationed carefully. But they had no way of communicating with the outside, no way of calling for help.
+
+The pod's computer spoke again, its voice steady. "Orbit achieved. Beginning search for potential rescue vessels."
+
+Han-kyul nodded, feeling a glimmer of hope. They would be found, eventually. They had to be. He leaned back in his seat, trying to rest, trying to conserve his energy.
+
+But his mind was still racing
+
+[Turn 24] (Final_H=0.003, L20_H=5.344, Sigma=0.150)
+...with the events of the past few hours. The asteroid, the debris field, the ship's failure to escape. It was all so sudden, so unexpected. He couldn't believe that it had happened, that they had come so close to being killed.
+
+And yet, they had survived. They were still alive, still fighting.
+
+Han-kyul's thoughts were interrupted by the sound of the pod's computer beeping softly. He looked up to see the screen flickering, displaying a message.
+
+"Captain, I have detected a signal," the computer said. "It is a distress call, from a nearby vessel. They are calling for assistance."
+
+Han-kyul's heart leapt with excitement. Could it be? Could they really
+
+[Turn 25] (Final_H=0.004, L20_H=9.000, Sigma=0.089)
+...be close to rescue? He felt a surge of hope, of relief. They were going to be okay. They were going to be saved.
+
+He reached out, his hand trembling with excitement, and touched the comms panel. "This is Captain Han-kyul of the... um... asteroid ship," he said, his voice a little shaky. "I'm responding to your distress call. Can you hear me?"
+
+The comms system crackled to life, and a voice replied, faint but clear. "This is the Aurora, a merchant vessel. We've been damaged in a battle with pirates. We need help, and fast."
+
+Han-kyul's eyes widened as he processed the information. Pirates? Battle? This was
+
+[Turn 26] (Final_H=0.005, L20_H=5.531, Sigma=0.145)
+...getting complicated. He hesitated, unsure what to do. They were in no position to get involved in a battle, not with their own ship destroyed and their crew injured. But at the same time, they couldn't just leave the Aurora and its crew to fend themselves against pirates.
+
+"Can you give me a situation report?" Han-kyul asked, trying to keep his voice calm. "What kind of damage are you suffering, and what kind of pirates are attacking you?"
+
+The comms system crackled again, and the voice on the other end replied. "We've been hit by a pirate ship, the 'Marauder's Revenge'. They're a notorious gang, known for their brutality. We've lost several crew members
+
+[Turn 27] (Final_H=0.003, L20_H=1.445, Sigma=0.300)
+...already, and we're running low on supplies. We need help, Captain. We need someone to take out the Marauder's Revenge and help us get out of this mess."
+
+Han-kyul's mind was racing. He knew they couldn't take on a pirate ship, not in their condition. But he also couldn't leave the Aurora and its crew to die. He looked around the pod, trying to think of a way out.
+
+"Listen," he said, trying to think clearly. "I'm in an escape pod, and I'm not exactly equipped to take on a pirate ship. But I can try to help you. Can you give me a location on the Marauder's Revenge, and some information on its
+
+[Turn 28] (Final_H=0.012, L20_H=7.312, Sigma=0.109)
+...armament and crew? Maybe I can come up with a plan to help you take them down."
+
+The comms system crackled again, and the voice on the other end replied. "The Marauder's Revenge is about 500 kilometers off our port side. She's a heavily armed ship, with a crew of about 20 pirates. They're using a combination of laser cannons and missiles to attack us. We've managed to take out their shields, but they're still putting up a fight."
+
+Han-kyul's eyes narrowed as he thought through the information. He knew they couldn't take on the Marauder's Revenge directly, but maybe he could come up with something else. He thought back to his training, to
+
+[Turn 29] (Final_H=0.003, L20_H=1.211, Sigma=0.300)
+...the tactics he had learned in the military. He remembered a technique called "swarming", where a small, agile ship could use its speed and maneuverability to evade the attacks of a larger, slower ship. And he remembered the escape pod's engines, which were designed for short-term propulsion, but might be able to provide enough thrust to make a run at the Marauder's Revenge.
+
+"Alright," he said, trying to sound confident. "Here's what I'll do. I'll make a run at the Marauder's Revenge, using my escape pod's engines to try and take out their engines or disable their cannons. Can you provide cover fire from your ship, and help me take out their defenses?"
+
+There was a
+
+[Turn 30] (Final_H=0.007, L20_H=9.062, Sigma=0.088)
+...pause on the comms system, and then the voice on the other side replied. "Captain, I don't know if that's a good idea. You're in a fragile escape pod, and the Marauder's Revenge is a heavily armed ship. You're not going to make it out alive."
+
+Han-kyul's grip on the comms panel tightened. He knew the risks, but he also knew they had to try. "I understand the risks," he said, trying to keep his tone calm. "But we have to try. The Aurora's crew is counting on us, and we can't just sit here and wait to be boarded. I'll do it, and I'll need your support. Can you give
+
+[Turn 31] (Final_H=0.006, L20_H=2.953, Sigma=0.271)
+...me that support?"
+
+The comms system crackled again, and the voice on the other side replied. "Alright, Captain. We'll provide cover fire from our ship. But you need to be careful. We can't afford to lose you too. Get in, get out, and get back to us as quickly as possible."
+
+Han-kyul nodded, even though he knew the other person couldn't see him. He took a deep breath, feeling the adrenaline coursing through his veins. He was going to do this. He was going to take out the Marauder's Revenge, and he was going to get the Aurora's crew safe harbor.
+
+He looked around the pod, checking his equipment one last time. He had the
+
+[Turn 32] (Final_H=0.004, L20_H=9.250, Sigma=0.086)
+...standard escape pod equipment: a life support system, a communication device, and a limited set of tools. He also had a small fuel tank, which would allow him to make a short burst of speed. That was it. He was going in with what he had.
+
+He took a deep breath, trying to calm his nerves. He had done this before, sort of. In his training simulations, at least. But this was real life, and he was going to have to rely on his skills and his instincts to get out of this one.
+
+He checked the pod's systems, making sure everything was functioning properly. Then he took a moment to think about the plan. He would make a run for the Marauder's Revenge, using
+
+[Turn 33] (Final_H=0.001, L20_H=9.250, Sigma=0.086)
+...his pod's engines to try and outrun the pirate ship's defenses. He would try to get close enough to target the engines, or maybe even the bridge, and then make a quick turn to avoid taking any more damage. He would then make a run back to the Aurora, hoping to outrun the pirates and get back to the safety of the ship.
+
+He took a deep breath, feeling his heart pounding in his chest. This was it. This was the moment of truth. He was going to have to trust his skills and his pod to get him through this.
+
+He reached out and flipped the switch, engaging the pod's engines. The ship lurched forward, accelerating rapidly as the engines burned fuel at a furious rate. Han
+
+[Turn 34] (Final_H=0.002, L20_H=6.875, Sigma=0.116)
+...felt the G-forces pushing him back into the seat as the pod hurtled towards the Marauder's Revenge. He could feel the sweat dripping down his face, his heart pounding in his chest. He was going to have to be careful, very careful, or this was going to end badly.
+
+He glanced at the viewscreen, watching as the pirate ship grew larger and larger. He could see the guns blazing away, trying to hit him, but he was too fast, too agile. He dodged and weaved, using every trick he knew to avoid the pirate's shots.
+
+And then, suddenly, he was alongside the Marauder's Revenge. He could see the engines, big and powerful, right there in front of
+
+[Turn 35] (Final_H=0.001, L20_H=8.250, Sigma=0.097)
+...him. He took a deep breath, focusing all his attention on the target. He could feel the pod's engines straining to keep the ship steady, but he knew he had to be precise. One mistake, and he'd be blown out of the sky.
+
+He lined up the shot, his hand hovering over the firing button. He took a deep breath, feeling the tension build inside him. This was it. This was the moment.
+
+He pressed the button, and a burst of energy shot out of the pod's cannon, aimed straight at the Marauder's Revenge's engines.
+
+[Turn 36] (Final_H=0.059, L20_H=9.438, Sigma=0.085)
+...The explosion rocked the pirate ship, sending shockwaves through the space around it. Han-kyul felt the pod shudder and lurch, but he kept his eyes fixed on the viewscreen, watching as the Marauder's Revenge's engines began to malfunction. Smoke and flames erupted from the damaged area, and the pirate ship began to lose speed.
+
+Han-kyul grinned, feeling a rush of excitement and relief. He'd done it. He'd taken out the pirate ship's engines, and now they had a chance to escape.
+
+But as he turned the pod around to head back to the Aurora, he saw a new threat emerging on the horizon. A third ship, even bigger and more powerful than the Marauder's
+
+[Turn 37] (Final_H=0.007, L20_H=0.017, Sigma=0.300)
+... Revenge, was coming straight for them. It was a heavy-hulled freighter, with a cargo hold full of who-knows-what. And judging from the way it was moving, it was going to be a tough nut to crack.
+
+Han-kyul's grin faltered as he realized the extent of their situation. They were outnumbered, outgunned, and outmaneuvered. And to make things worse, the Aurora was still badly damaged, with a hull breach and a dwindling power supply.
+
+He took a deep breath, trying to think of a plan. He knew they couldn't take on the freighter directly, but maybe... maybe he could try to sneak past it, or at least distract it long
+
+[Turn 38] (Final_H=0.002, L20_H=9.188, Sigma=0.087)
+...en enough to give the Aurora's crew a chance to repair the ship and get out of there.
+
+He quickly scanned the pod's systems, looking for anything that could help him. The escape pod's sensors were limited, but he managed to pick up some data on the freighter's course and speed. It was heading straight for the Aurora, but it was slowing down, probably due to the damage it had sustained during the battle.
+
+Han-kyul's mind raced as he thought about his options. He knew he couldn't take a direct shot at the freighter, but maybe... maybe he could try to get behind it, or at least get close enough to cause some trouble.
+
+He took a deep breath, making his decision. He
+
+[Turn 39] (Final_H=0.005, L20_H=9.250, Sigma=0.086)
+...engaged the pod's engines, making a sharp turn to port. The pod responded sluggishly, but Han-kyul held on, feeling the G-forces push him back into the seat. He was going to have to be careful, very careful, or this was going to end badly.
+
+As he turned, he caught a glimpse of the freighter's hull, massive and imposing. He could see the cargo holds, the engines, the bridge... and he knew he had to get behind it, if he wanted to have any chance of taking it out.
+
+He adjusted the pod's trajectory, trying to get into position. The freighter was huge, but Han-kyul knew he had to be quick. He could feel the
+
+[Turn 40] (Final_H=0.004, L20_H=8.062, Sigma=0.099)
+...pod's engines straining to keep him in position, but he was getting closer. He could see the freighter's hull looming ahead, and he knew he was almost there.
+
+He took a deep breath, feeling the adrenaline coursing through his veins. This was it. This was the moment.
+
+He reached out and engaged the pod's thrusters, making a small, precise maneuver to get behind the freighter. The pod shuddered and lurched, but Han-kyul held on, his eyes fixed on the viewscreen.
+
+And then, suddenly, he was there. He was right behind the freighter, with the ship's massive hull looming above him. He could see the cargo holds, the engines, the bridge...
+
+[Turn 41] (Final_H=0.004, L20_H=7.781, Sigma=0.103)
+...and he knew he had to act fast. He reached out and activated the pod's cannon, taking aim at the freighter's engines. The cannon fired, sending a blast of energy into the freighter's hull. The ship shuddered and shook, its engines sputtering and failing.
+
+Han-kyul grinned, feeling a rush of excitement and relief. He'd done it. He'd taken out the freighter's engines, and the ship was crippled.
+
+But as he turned the pod around to head back to the Aurora, he saw a new threat emerging on the horizon. A group of pirate ships, smaller and faster than the freighter, were coming straight for him.
+
+[Turn 42] (Final_H=0.016, L20_H=3.938, Sigma=0.203)
+...and the Aurora. Han-kyul's grin faltered as he realized the extent of his situation. He was in a bad spot, with no clear way to escape. The pirate ships were closing in, and the Aurora was still badly damaged.
+
+He took a deep breath, trying to think of a plan. He knew he couldn't take on the pirate ships directly, but maybe... maybe he could try to use the pod's cannon to take out their engines, or maybe even disable their propulsion systems.
+
+He quickly scanned the pod's systems, looking for anything that could help him. The pod's sensors were limited, but he managed to pick up some data on the pirate ships' courses and speeds. He knew he had to act fast
+
+[Turn 43] (Final_H=0.009, L20_H=7.938, Sigma=0.101)
+...before the pirates got too close. He took a deep breath, focusing on the viewscreen. He could see the pirate ships, their hulls sleek and menacing, their guns blazing away. He knew he had to be quick, or he'd be overwhelmed.
+
+He reached out and activated the pod's cannon, taking aim at the closest pirate ship. The cannon fired, sending a blast of energy into the ship's hull. The pirate ship shuddered and shook, its engines sputtering and failing.
+
+Han-kyul grinned, feeling a rush of excitement and relief. He'd taken out one of the pirate ships, and the others were starting to falter. But he knew he couldn't stop now. He had to keep fighting
+
+[Turn 44] (Final_H=0.005, L20_H=7.906, Sigma=0.101)
+...keep fighting until he had cleared the area. He turned the pod around, targeting the next pirate ship. The cannon fired again, and again, and again, each blast taking out a different ship. The pirates were putting up a good fight, but Han-kyul was determined to win.
+
+As he fought, he could feel the pod's systems straining under the load. The cannon was overheating, and the pod's engines were taking a beating. But he didn't care. He was too busy fighting for his life.
+
+Finally, after what seemed like an eternity, the last pirate ship fell in line. Han-kyul let out a sigh of relief, exhausted but triumphant. He'd done it. He had taken out
+
+[Turn 45] (Final_H=0.005, L20_H=9.312, Sigma=0.086)
+...the pirate ships, and he had saved the Aurora. He turned the pod around, heading back to the damaged ship. As he approached, he could see that the crew was trying to repair the hull breach, but it was a slow process.
+
+Han-kyul's eyes scanned the ship, looking for any other damage. He saw that the engines were still offline, and the life systems were struggling to maintain atmosphere. He knew they had to get out of there, and fast.
+
+He landed the pod next to the Aurora, and jumped out, rushing to join the crew. "We need to get out of here," he said, his voice firm and commanding. "Now."
+
+[Turn 46] (Final_H=0.559, L20_H=2.422, Sigma=0.300)
+...the crew looked up at him, tired and exhausted. They knew they were in trouble, but they also knew they had to keep fighting. Han-kyul nodded, understanding. "We'll get out of this," he said, his voice reassuring. "Just stay calm, and follow me."
+
+He led the crew to the escape pods, helping them strap in and prepare for launch. As they waited for the pods to lift off, Han-kyul checked the ship's systems, trying to find any way to fix the damage. But it was too late. The ship was too badly damaged, and it was only a matter of time before it blew.
+
+The pods launched, carrying the crew to safety. Han-kyul watched as
+
+[Turn 47] (Final_H=0.001, L20_H=9.250, Sigma=0.086)
+...the Aurora exploded, a massive fireball erupting from the ship's hull. He felt a pang of sadness, mourning the loss of the ship and the crew. But he knew they had to keep moving. They had to get away from the pirate ships, and find a way to warn the authorities about the attack.
+
+He looked around, taking a deep breath. The crew was scattered, some of them injured, others in shock. He knew he had to get them to a safe place, and fast. He spotted a nearby planet, a small rocky world with a thin atmosphere. It wasn't perfect, but it would do.
+
+He pointed the pod towards the planet, and engaged the engines. The pod shuddered and lurched,
+
+[Turn 48] (Final_H=0.003, L20_H=7.750, Sigma=0.103)
+...as it entered the atmosphere. Han-kyul's heart was racing, his mind racing with thoughts of the attack, the loss of the ship, and the fate of the crew. He knew they had to be careful, the planet's atmosphere was thin, and the pod's engines were already strained.
+
+As they descended, Han-kyul could see the planet's surface, a barren wasteland of rock and dust. He spotted a small valley, and guided the pod towards it. The landing was rough, the pod bouncing and jerking as it touched down on the ground.
+
+Han-kyul breathed a relief, his heart still racing. They were safe, for now. He turned to the crew, his eyes scanning their faces.
+
+[Turn 49] (Final_H=0.182, L20_H=8.938, Sigma=0.090)
+...looking for signs of injury, or worse. Most of them were shaken, but physically unharmed. One of them, a young engineer named Joon-ho, was bleeding from a cut in his forehead, but it wasn't serious. Han-kyul helped him clean the wound, and then turned to the others.
+
+"We need to assess our situation," he said, his voice firm and calm. "We're stranded on this planet, with limited supplies and no way to communicate with anyone. We need to find ways to survive until we can get rescued."
+
+The crew nodded, their faces grim. They knew they were in a tough spot, but they also knew they had each other. Han-kyul smiled, feeling a sense
+
+[Turn 50] (Final_H=0.002, L20_H=9.125, Sigma=0.088)
+...of pride and hope. They would have to work together to survive, but he was confident they could do it. He looked around the valley, taking a deep breath. They needed to find shelter, food, and water. And they needed to find a way to signal for help.
+
+He spotted a cluster of rocks in the distance, and led the crew towards it. As they approached, he noticed something strange. The rocks seemed to be arranged in a pattern, almost like a code. He stopped, his eyes narrowing.
+
+"What is this?" he asked, his voice low and curious.
+
+The crew gathered around him, peering at the rocks. Joon-ho, the engineer, spoke up. "I think it's a message,"
+

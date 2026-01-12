@@ -1,0 +1,12 @@
+model_id: meta-llama/Meta-Llama-3-8B-Instruct
+seed: 0
+temperature: 0.6
+
+hook:
+  layer_idx: 20
+  k: 0.8
+  min_sigma: 0.0
+  max_sigma: 0.3
+
+generation:
+  max_new_tokens: 512
